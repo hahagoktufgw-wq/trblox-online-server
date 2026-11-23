@@ -1,0 +1,17 @@
+{
+  "name": "trblox-online-server",
+  "version": "0.1.0",
+  "private": true,
+  "description": "TRBLOX starter multiplayer WebSocket server",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  }
+}
