@@ -5,7 +5,7 @@
   "description": "TRBLOX starter multiplayer WebSocket server",
   "main": "server/index.js",
   "scripts": {
-    "start": "node server/index.js"
+"start": "node index.js"
   },
   "engines": {
     "node": ">=20"
